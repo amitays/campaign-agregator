@@ -1,0 +1,3 @@
+rest:
+  campaignsUrl: http://homework.ad-juster.com/api/campaigns
+  creativesUrl: http://homework.ad-juster.com/api/creatives
